@@ -1,8 +1,8 @@
-# 💫 Hi I'm Jason:
+# :wave: Hi I'm Jason
 A student studying at Ngee Ann Polytechnic in Diploma in Information Technology (N54)
 <br>
 <br>
-📚 Hobbies: Gaming , Reading Mangas/Manhwas , Watching Anime 
+:video_game: Hobbies: Gaming , Reading Mangas/Manhwas , Watching Anime 
 <br>
 🎯 What I want to achieve: To have a happy life with a happy ending
 
