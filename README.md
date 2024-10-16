@@ -9,8 +9,9 @@ A student studying at Ngee Ann Polytechnic in Diploma in Information Technology 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-ng-a82145273/)
+[![YouTube](https://img.shields.io/badge/YouTube-red.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@tenion1189)
 <br>
-:email: Offical Email: jasonngkh01@gmail.com
+Offical Email: jasonngkh01@gmail.com
 
 # 💻 Tools and Languages I have used
 
