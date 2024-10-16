@@ -7,7 +7,9 @@ A student studying at Ngee Ann Polytechnic in Diploma in Information Technology 
 🎯 What I want to achieve: To have a happy life with a happy ending
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-ng-a82145273/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-ng-a82145273/)
+<br>
+:email: Offical Email: jasonngkh01@gmail.com
 
 # 💻 Tools and Languages I have used
 
