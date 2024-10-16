@@ -1,7 +1,10 @@
+<img src="https://github.com/user-attachments/assets/f0c9fd19-6b36-4ad4-8696-518066e05f09" alt="cat hi" style="width: 50%;">;
+
 # :wave: Hi I'm Jason
 A student studying at Ngee Ann Polytechnic in Diploma in Information Technology (N54)
 <br>
 <br>
+
 :video_game: Hobbies: Gaming , Reading Mangas/Manhwas , Watching Anime 
 <br>
 🎯 What I want to achieve: To have a happy life with a happy ending
