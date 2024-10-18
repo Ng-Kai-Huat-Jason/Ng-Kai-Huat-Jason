@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/f0c9fd19-6b36-4ad4-8696-518066e05f09" alt="cat hi" style="width: 50%;"> Hand-drawned by yours truly.
+<img src="https://github.com/user-attachments/assets/f0c9fd19-6b36-4ad4-8696-518066e05f09" alt="cat hi" style="width: 30%;"> <br> Hand-drawned by yours truly.
 
 # :wave: Hi I'm Jason
 A student studying at Ngee Ann Polytechnic in Diploma in Information Technology (N54)
